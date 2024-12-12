@@ -6,7 +6,7 @@
 它是一个工作流。可快速构建指定架构/平台的单个或多个docker镜像 并存储在Artifact文件或Release文件
 
 ##
-jeessy/ddns-go,adguard/adguardhome,gzxhwq/sing-box:redir
+jeessy/ddns-go,adguard/adguardhome,gzxhwq/sing-box:latest
 
 ## 使用说明
 https://wkdaily.cpolar.top/archives/gc
